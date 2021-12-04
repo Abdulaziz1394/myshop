@@ -49,3 +49,99 @@
   height: 653px;
   background-color: white;
 }
+
+.profile{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 228px;
+  height: 267px;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+  .line{
+  position: relative;
+  width: 220px;
+  height: 0px;
+  margin-top: 39px;
+  margin-left: 40px;
+
+  /* Background */
+
+  border: 1.5px solid #1111e6;
+}
+.information{
+  position: relative;
+  width: 221px;
+  height: 126px;
+  margin-top: 39px;
+  margin-left: 40px;
+  background-color: green;
+}
+
+.language{
+  position: relative;
+  width: 221px;
+  height: 126px;
+  margin-top: 39px;
+  margin-left: 40px;
+  background-color: green;
+}
+.skills{
+  position: relative;
+  width: 220px;
+  height: 242px;
+  margin-top: 39px;
+  margin-left: 40px;
+  background-color: green;
+}
+.extraskills{
+  position: relative;
+  width: 186px;
+  height: 148px;
+  margin-top: 39px;
+  margin-left: 40px;
+  background-color: green;
+ }
+.photo{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 156.16px;
+  height: 142.53px;
+
+/* background: url(https://ibb.co/VVR7Sbw); */
+}
+.photo img {
+  border-radius: 50%;
+}
+.Abdulaziz{
+  position: relative;
+width: 66.63px;
+height: 20.9px;
+margin-top: 29.46px;
+
+
+/* H4 - 18px */
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 123.6%;
+/* or 22px */
+
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+/* Black */
+
+color: #2B2B2B;
+
+}
